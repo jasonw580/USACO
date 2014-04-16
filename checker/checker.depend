@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1396414206 source:/home/jason/CPPCode/checker/checker.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
